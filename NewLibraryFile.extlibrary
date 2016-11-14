@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ASCII"?>
+<extlib:Library xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:extlib="http:///org/eclipse/emf/examples/library/extlibrary.ecore/1.0.0" xmi:id="_TRltsKpwEea8h7sFZtYZMg">
+  <parentBranch href="TutorialModel.extlibrary#_Y7bB0KphEea8h7sFZtYZMg"/>
+  <stock xsi:type="extlib:Book" xmi:id="_d3wY8KphEea8h7sFZtYZMg" title="Prelude to Foundation" category="ScienceFiction"/>
+</extlib:Library>

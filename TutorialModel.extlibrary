@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extlib:Library xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:extlib="http:///org/eclipse/emf/examples/library/extlibrary.ecore/1.0.0" xmi:id="_Y7bB0KphEea8h7sFZtYZMg">
+  <branches href="NewLibraryFile.extlibrary#_TRltsKpwEea8h7sFZtYZMg"/>
+  <employees xmi:id="_4NCCkKpsEea8h7sFZtYZMg" lastName="Master"/>
+  <employees xmi:id="_50SUQKpsEea8h7sFZtYZMg" firstName="" lastName="Chief"/>
+  <employees xmi:id="_6Mk4cKpsEea8h7sFZtYZMg" lastName="Employee"/>
+  <borrowers xmi:id="_FF6HkKpvEea8h7sFZtYZMg" firstName="Will" lastName="Graham"/>
+</extlib:Library>
