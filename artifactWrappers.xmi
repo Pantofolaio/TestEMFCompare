@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ASCII"?>
+<GenericArtifactMetaModel:ArtifactWrapperContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:GenericArtifactMetaModel="org.eclipse.capra.GenericArtifactMetaModel">
+  <artifacts uri="/Users/Dusan/Desktop/pocutje.xlsx/Sheet-1-110" name="ID 110: 13 | 7:20 (6h30) | + +..." ArtifactHandler="org.eclipse.capra.handler.office.OfficeHandler"/>
+  <artifacts uri="/Users/Dusan/Desktop/pocutje.xlsx/Sheet-1-111" name="ID 111: 14 | 6:30 (5h30) | +  ..." ArtifactHandler="org.eclipse.capra.handler.office.OfficeHandler"/>
+  <artifacts uri="/TestEMFCompare/src/com/test/TestClass.java" name="TestClass.java" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
+  <artifacts uri="/Users/Dusan/Desktop/pocutje.xlsx/Sheet-1-4" name="ID 4: 30 | 8:30 (7h) | 0:10 | ..." ArtifactHandler="org.eclipse.capra.handler.office.OfficeHandler"/>
+  <artifacts uri="/Users/Dusan/Desktop/pocutje.xlsx/Sheet-1-5" name="ID 5: 31 | 8:30(7,5h) | zj izk..." ArtifactHandler="org.eclipse.capra.handler.office.OfficeHandler"/>
+  <artifacts uri="/Users/Dusan/Desktop/DocxDoc.docx/2" name="ID 2: Requirement 2: asjdi !!!..." ArtifactHandler="org.eclipse.capra.handler.office.OfficeHandler"/>
+</GenericArtifactMetaModel:ArtifactWrapperContainer>
